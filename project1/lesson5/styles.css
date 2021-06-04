@@ -1,0 +1,26 @@
+.box,
+.link-box {
+  background-color: yellow;
+  width: 240px;
+  box-sizing: border-box;
+  min-height: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  padding-top: 12px;
+}
+
+.inner {
+  background-color: pink;
+  margin-top: 20px;
+  height: 15px;
+}
+
+.link {
+  background-color: rebeccapurple;
+  width: 30px;
+  display: inline-block;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 25px;
+}

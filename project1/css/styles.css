@@ -1,0 +1,25 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Russo One', sans-serif;
+}
+.list-no-style {
+  list-style: none;
+}
+
+.adress {
+  font-style: normal;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header .manu a,
+.header .manu:visited {
+  font-size: 12px;
+  color: #fff;
+}
+.header a:hover;
+.header a:active;{
+    color: #ff6C00
+}
